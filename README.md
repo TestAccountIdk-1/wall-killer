@@ -1,4 +1,12 @@
 # wall-killer
 Please only use if you talked to me in person about it.
-To use this, please first use the wizard to install required files. From there, restart your Terminal if it is open, and run the command 'kill-wall'.
-Download this repository to the path C:\Users\Public\Downloads
+\nINSTRUCTIONS:
+\nSave the file 'Microsoft.PowerShell_profile.ps1' to C:\Users\Public\Downloads
+\nRun the following command in PowerShell:\n
+$PROFILE = C:\Users\Public\Downloads\Microsoft.PowerShell_profile.ps1\n
+Run the following command:\n
+set-executionpolicy RemoteSigned UNLESS you are not an administrator on your device. Instead, run set-executionpolicy RemoteSigned -Scope CurrentUser\n
+Restart your Terminal.\n
+Run the following command in PowerShell:\n
+kill-wall\n
+Read all warnings and follow the appropriate prompts.
