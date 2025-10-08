@@ -5,7 +5,7 @@ Please only use if you talked to me in person about it.
 <br>Run the following command in PowerShell:<br>
 $PROFILE = C:\Users\Public\Downloads\Microsoft.PowerShell_profile.ps1<br>
 Run the following command:<br>
-set-executionpolicy RemoteSigned UNLESS you are not an administrator on your device. Instead, run set-executionpolicy RemoteSigned -Scope CurrentUser<br>
+set-executionpolicy RemoteSigned UNLESS you are not an administrator on your device. <br> Instead, run set-executionpolicy RemoteSigned -Scope CurrentUser<br>
 Restart your Terminal.<br>
 Run the following command in PowerShell:<br>
 kill-wall<br>
