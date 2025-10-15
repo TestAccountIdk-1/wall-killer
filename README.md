@@ -1,5 +1,7 @@
 # wall-killer
-Please only use if you talked to me in person about it.
+Please only use if you talked to me in person about it.<br>
+WARNINGS:<br>
+This will (should) remove Smoothwall when you are OFF SCHOOL WIFI! Also, I have not located the keystroke logger so it will NOT be impacted by this!<br>
 <br>INSTRUCTIONS:
 <br>Save the file 'Microsoft.PowerShell_profile.ps1' to C:\Users\*your username*\Documents
 <br>Run the following command in PowerShell:<br>
